@@ -13,3 +13,5 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 [Here is the official Git Documentation](https://git-scm.com/documentation)
+
+[Pro Git Book](https://git-scm.com/book/en/v2)
